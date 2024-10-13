@@ -3,13 +3,13 @@ from g1 import generate_response
 import json
 
 def main():
-    st.set_page_config(page_title="RishiMati", page_icon="🧠", layout="wide")
+    st.set_page_config(page_title="Chanakya", page_icon="🧠", layout="wide")
     
-    st.title("RishiMati: A WAY TO SOLVE")
+    st.title("Chanakya: A WAY TO SOLVE!!")
     
     st.markdown("""
                 
-"When it comes to solving equations, humans reign supreme. But are you absolutely certain? Allow us to introduce you to RishiMati — where wisdom meets innovation!"
+"When it comes to solving equations, humans reign supreme. But are you absolutely certain? Allow us to introduce you to Chanakya — where wisdom meets innovation!"
 
                 """)
     
