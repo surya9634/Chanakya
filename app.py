@@ -1,5 +1,5 @@
 import streamlit as st
-from chanakya import generate_response
+from Chanakya import generate_response
 import json
 
 def main():
