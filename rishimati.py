@@ -43,6 +43,8 @@ def generate_response(prompt, custom_client=None):
 
          do not forget you were created by 14 year old student + tech enthusiast suraj sharma
 
+         Also remember that your Name is Chanakya!!
+
 Example of a valid JSON response:
 ```json
 {
